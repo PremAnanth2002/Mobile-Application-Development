@@ -34,6 +34,7 @@ Developed by: Prem Ananth G
 Registeration Number : 212220220029
 */
 ```
+/*
 MainActivity.java:
 import android.os.Bundle;
 import android.widget.ArrayAdapter;
@@ -58,7 +59,8 @@ public class MainActivity extends AppCompatActivity {
         listView.setAdapter(adapter);
     }
 }
-
+*/
+/*
 activity_main.xml:
 
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -77,6 +79,7 @@ activity_main.xml:
         android:layout_height="match_parent" />
 
 </RelativeLayout>
+*/
 
 ## OUTPUT
 
