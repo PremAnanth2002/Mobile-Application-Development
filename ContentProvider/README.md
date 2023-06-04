@@ -59,8 +59,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
-**
-activity_main.xml:**
+**activity_main.xml:**
 
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
