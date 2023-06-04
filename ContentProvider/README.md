@@ -34,7 +34,7 @@ Developed by: Prem Ananth G
 Registeration Number : 212220220029
 */
 ```
-**MainActivity.java:**
+MainActivity.java:
 import android.os.Bundle;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
-**activity_main.xml:**
+activity_main.xml:
 
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
